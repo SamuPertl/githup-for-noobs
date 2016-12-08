@@ -61,7 +61,6 @@ myCI$upper
 myCI$lower
 
 # I have more than 1 confidence intervall --> is that correct 
-
 # do the same with a loop and repeat it 
 
 for(i in 1:nvalues){
@@ -376,6 +375,6 @@ df7 %>% head()
 
 
 FALSE || FALSE
-
+# I think we need a better code 
 
 
